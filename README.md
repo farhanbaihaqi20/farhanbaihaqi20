@@ -53,11 +53,9 @@ Computer Science student at UNNES who builds things for the web. I focus on prac
 
 ### Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,vite,supabase,html,css,python,cpp,git,github,linux,vercel,figma,vscode" alt="tech stack" />
-</p>
+**Languages** — `JavaScript` `Python` `C++` `HTML` `CSS` `SQL`
 
-`JavaScript` `React` `Vite` `Supabase` `HTML` `CSS` `Python` `C++` `Git` `Linux` `Vercel` `Figma`
+**Database** — `PostgreSQL (Supabase)`
 
 ---
 
@@ -83,18 +81,19 @@ Computer Science student at UNNES who builds things for the web. I focus on prac
   <img src="https://ghchart.rshah.org/6366f1/farhanbaihaqi20" alt="contribution chart" width="100%" />
 </p>
 
-#### Activity Snapshot — checked 2 Nov 2026
+#### Activity Snapshot
 
-Total **103 commits** across **4 public repositories** (default branch):
+_ Checked 2 Nov 2026 · default branch of each repository_
 
-| Repository | Commits | Last commit |
-| --- | ---: | --- |
-| [lostandfound](https://github.com/farhanbaihaqi20/lostandfound) | 42 | 2 Nov 2026 |
-| [MyKuliahLife](https://github.com/farhanbaihaqi20/MyKuliahLife) | 42 | 12 Oct 2026 |
-| [PROJECT-AKHIR-KELOMPOK-7](https://github.com/farhanbaihaqi20/PROJECT-AKHIR-KELOMPOK-7) | 14 | 19 Jun 2026 |
-| [farhanbaihaqi20](https://github.com/farhanbaihaqi20/farhanbaihaqi20) (this profile) | 5 | 2 Nov 2026 |
+| Repository | Language | Commits | Last Commit |
+| :--- | :--- | :---: | :---: |
+| [lostandfound](https://github.com/farhanbaihaqi20/lostandfound) | JavaScript | 42 | 02 Nov 2026 |
+| [MyKuliahLife](https://github.com/farhanbaihaqi20/MyKuliahLife) | JavaScript | 42 | 12 Oct 2026 |
+| [PROJECT-AKHIR-KELOMPOK-7](https://github.com/farhanbaihaqi20/PROJECT-AKHIR-KELOMPOK-7) | Python | 14 | 19 Jun 2026 |
+| [farhanbaihaqi20](https://github.com/farhanbaihaqi20/farhanbaihaqi20) — this profile | Markdown | 6 | 02 Nov 2026 |
+| **Total — 4 public repositories** | | **104** | |
 
-> The cards above update automatically. The table is a manual snapshot, update it anytime to refresh the numbers.
+> The cards above update automatically. This table is a manual snapshot, refresh it anytime to update the numbers.
 
 ---
 
