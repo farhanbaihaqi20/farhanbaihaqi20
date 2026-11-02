@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm Farhan Baihaqi 👋</h1>
 
+<div align="center">
+  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding gif" />
+</div>
+
 <p align="center">
   <b>Computer Science Student @ Universitas Negeri Semarang</b><br>
   Web Developer · Semarang, Indonesia
@@ -60,28 +64,35 @@ Computer Science student at UNNES who builds things for the web. I focus on prac
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhanbaihaqi20&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanbaihaqi20&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" height="180" alt="top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhanbaihaqi20&theme=tokyonight" alt="profile details" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=farhanbaihaqi20&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="200" alt="streak stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhanbaihaqi20&theme=tokyonight" height="200" alt="github stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhanbaihaqi20&theme=tokyonight" height="200" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhanbaihaqi20&theme=tokyonight" height="200" alt="most commit language" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanbaihaqi20&theme=tokyo-night&hide_border=false&area=true" alt="activity graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farhanbaihaqi20&theme=tokyonight&utcOffset=7" height="200" alt="productive time" />
+</p>
+
+#### Contribution Chart
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/6366f1/farhanbaihaqi20" alt="contribution chart" width="100%" />
 </p>
 
 #### Activity Snapshot — checked 2 Nov 2026
 
-Total **102 commits** across **4 public repositories** (default branch):
+Total **103 commits** across **4 public repositories** (default branch):
 
 | Repository | Commits | Last commit |
 | --- | ---: | --- |
 | [lostandfound](https://github.com/farhanbaihaqi20/lostandfound) | 42 | 2 Nov 2026 |
 | [MyKuliahLife](https://github.com/farhanbaihaqi20/MyKuliahLife) | 42 | 12 Oct 2026 |
 | [PROJECT-AKHIR-KELOMPOK-7](https://github.com/farhanbaihaqi20/PROJECT-AKHIR-KELOMPOK-7) | 14 | 19 Jun 2026 |
-| [farhanbaihaqi20](https://github.com/farhanbaihaqi20/farhanbaihaqi20) (this profile) | 4 | 28 Aug 2025 |
+| [farhanbaihaqi20](https://github.com/farhanbaihaqi20/farhanbaihaqi20) (this profile) | 5 | 2 Nov 2026 |
 
 > The cards above update automatically. The table is a manual snapshot, update it anytime to refresh the numbers.
 
