@@ -43,15 +43,17 @@ Computer Science student at UNNES who builds things for the web. I focus on prac
 
 ### Featured Projects
 
-| Project | Description | Stack | Link |
-| --- | --- | --- | --- |
-| **MyKuliahLife** | PWA to manage student life — academics, finance, fuel & wellness tracking. Minimal, elegant, modern. | React · Vite · Supabase · Vercel | [Repo](https://github.com/farhanbaihaqi20/MyKuliahLife) · [Live](https://mykuliahlife.web.id) |
-| **UNNES Lost & Found** | Lost & found platform for UNNES students — public catalog, report & claim flow. | JavaScript · Supabase · Vercel | [Repo](https://github.com/farhanbaihaqi20/lostandfound) · [Live](https://unicelostandfound.biz.id) |
-| **PROJECT-AKHIR-KELOMPOK-7** | Final project for Linear Algebra — Kelompok 7, Rombel 1. | Python | [Repo](https://github.com/farhanbaihaqi20/PROJECT-AKHIR-KELOMPOK-7) |
+- **[MyKuliahLife](https://github.com/farhanbaihaqi20/MyKuliahLife)** - a web app I built to organize my own college life, from class schedules and assignments to money and fuel logs. Made with React and Supabase, and I still work on it whenever I need something new. Live: [mykuliahlife.web.id](https://mykuliahlife.web.id)
+- **[UNNES Lost & Found](https://github.com/farhanbaihaqi20/lostandfound)** - group project. A simple website where UNNES students can report lost items or post items they found around campus, so things can get back to their owners. Live: [unicelostandfound.biz.id](https://unicelostandfound.biz.id)
+- **[PROJECT-AKHIR-KELOMPOK-7](https://github.com/farhanbaihaqi20/PROJECT-AKHIR-KELOMPOK-7)** - group final project for my Linear Algebra class, made with Python.
 
 ---
 
 ### Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,html,css,postgres" alt="tech stack" />
+</p>
 
 **Languages** — `JavaScript` `Python` `C++` `HTML` `CSS` `SQL`
 
@@ -90,8 +92,8 @@ _ Checked 2 Nov 2026 · default branch of each repository_
 | [lostandfound](https://github.com/farhanbaihaqi20/lostandfound) | JavaScript | 42 | 02 Nov 2026 |
 | [MyKuliahLife](https://github.com/farhanbaihaqi20/MyKuliahLife) | JavaScript | 42 | 12 Oct 2026 |
 | [PROJECT-AKHIR-KELOMPOK-7](https://github.com/farhanbaihaqi20/PROJECT-AKHIR-KELOMPOK-7) | Python | 14 | 19 Jun 2026 |
-| [farhanbaihaqi20](https://github.com/farhanbaihaqi20/farhanbaihaqi20) — this profile | Markdown | 6 | 02 Nov 2026 |
-| **Total — 4 public repositories** | | **104** | |
+| [farhanbaihaqi20](https://github.com/farhanbaihaqi20/farhanbaihaqi20) — this profile | Markdown | 7 | 02 Nov 2026 |
+| **Total — 4 public repositories** | | **105** | |
 
 > The cards above update automatically. This table is a manual snapshot, refresh it anytime to update the numbers.
 
